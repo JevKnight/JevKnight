@@ -27,13 +27,18 @@
 <li><img height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx"> <b>HTML</b></li>
 <li><img height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j"> <b>CSS</b></li>
 <li><img height="32px" width="32px" alt="SASS logo" src="https://cutt.ly/AQuzRbx"> <b>SASS</b></li>
-<li><img height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY"> <b>JS</b>
-<li><img height="32px" width="32px" alt="TS logo" src= "https://cutt.ly/aQuhLvx"> <b>TS</b>
+<li><img height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY"> <b>Javascript</b>
+<li><img height="32px" width="32px" alt="TS logo" src= "https://cutt.ly/aQuhLvx"> <b>Typescript</b>
 <li><img height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw"> <b>Python</b>
 <li><img height="32px" width="32px" alt="PHP logo" src="https://cutt.ly/YQukyil"> <b>PHP</b>
-<li><img height="32px" width="32px" alt="C# logo" src="https://cutt.ly/2QujDC2"> <b>C#</b>
+<li><img height="32px" width="32px" alt="C# logo" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"> <b>C++</b>
+</ul>
+
+### • Ferramentas •
+
+<ul>
 <li><img height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C"> <b>Node.js</b>
 <li><img height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU"> <b>VS Code</b>
 <li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b>
-<li><img height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ"> <b>Github</b>
+<li><img height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ"> <b>Github (o mito)</b>
 </ul>
