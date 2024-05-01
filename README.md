@@ -3,4 +3,5 @@
 ## • Sobre mim •
 <ul>
 <li>Aprendiz em qualquer linguagem de programação, fullstack e DBA.</li>
+<li>🎓 | Graduação, Ciência da Computação, 2º semestre.</li>
 </ul>
