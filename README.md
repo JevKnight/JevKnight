@@ -19,4 +19,4 @@
  
 | Nome do Projeto        | Descrição                        | Iniciado? | Concluído? |
 | ------------ | -------------------------------- | ------------ | ------------ |
-| Brutal Doom: Fork Project   | Fork paraBrutal Doom | sim         | não          |
+| Brutal Doom: Fork Project   | Fork para Brutal Doom | sim         | não          |
