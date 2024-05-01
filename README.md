@@ -40,5 +40,5 @@
 <li><img height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C"> <b>Node.js</b>
 <li><img height="32px" width="32px" alt="VS Сode logo" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"> <b>VS Code</b>
 <li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b>
-<li><img height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ"> <b>Github (o mito)</b>
+<li><img height="32px" width="32px" alt="GitHub logo" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"> <b>Github (o mito)</b>
 </ul>
