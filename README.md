@@ -19,4 +19,4 @@
  
 | Nome do Projeto        | Descrição                        | Iniciado? | Concluído? |
 | ------------ | -------------------------------- | ------------ | ------------ |
-| Mangá Lollipop+   | Um site novo, leia mangás facilmente! | não         | não          |
+| Brutal Doom: Fork Project   | Fork paraBrutal Doom | sim         | não          |
