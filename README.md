@@ -21,6 +21,8 @@
 | ------------ | -------------------------------- | ------------ | ------------ |
 | Brutal Doom: Fork Project   | Fork para Brutal Doom | sim         | não          |
 
+## • Linguagens que Trabalho •
+
 <ul>
 <li><img height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx"> <b>HTML</b></li>
 <li><img height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j"> <b>CSS</b></li>
