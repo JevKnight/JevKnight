@@ -2,5 +2,5 @@
 ### 👋 | Seja mais do que bem vindo ao meu perfil.
 ## • Sobre mim •
 <ul>
-<li></li>
+<li>Aprendiz em qualquer linguagem de programação, fullstack e DBA.</li>
 </ul>
