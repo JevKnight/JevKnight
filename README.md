@@ -32,6 +32,7 @@
 <li><img height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw"> <b>Python</b>
 <li><img height="32px" width="32px" alt="PHP logo" src="https://cutt.ly/YQukyil"> <b>PHP</b>
 <li><img height="32px" width="32px" alt="C# logo" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"> <b>C++</b>
+<li><img height="32px" width="32px" alt="ZScript logo" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Circle_ZDoom_Logo.png"> <b>ZScript</b>
 </ul>
 
 ### • Ferramentas •
