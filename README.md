@@ -39,12 +39,13 @@
 ### • Ferramentas •
 
 <ul>
-<li><img height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C"> <b>Node.js</b>
-<li><img height="32px" width="32px" alt="VS Сode logo" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"> <b>VS Code</b>
-<li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b>
-<li><img height="32px" width="32px" alt="GitHub logo" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"> <b>Github (o mito)</b>
-<li><img height="32px" width="32px" alt="ACC logo" src="https://static.doomworld.com/monthly_2017_03/avatar.png.109e43f9d1305aaec7a54e741526b9e1.png"> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b>
+<li><img height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C"> <b>Node.js</b></li>
+<li><img height="32px" width="32px" alt="VS Сode logo" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"> <b>VS Code</b></li>
+<li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b></li>
+<li><img height="32px" width="32px" alt="GitHub logo" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"> <b>Github (o mito)</b></li>
+<li><img height="32px" width="32px" alt="ACC logo" src="https://static.doomworld.com/monthly_2017_03/avatar.png.109e43f9d1305aaec7a54e741526b9e1.png"> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b></li>
 </ul>
 
-### • Redes •
+
+### • Redes Sociais •
 * <img height="32px" alt="moddb logo" src="https://media.moddb.com/images/members/4/3399/3398047/1.png"> [Moddb](https://www.moddb.com/members/jevlsk)
