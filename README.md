@@ -43,7 +43,7 @@
 <li><img height="32px" width="32px" alt="VS Сode logo" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"> <b>VS Code</b>
 <li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b>
 <li><img height="32px" width="32px" alt="GitHub logo" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"> <b>Github (o mito)</b>
-<li><img height="32px" width="32px" alt="ACC logo" src=""> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b>
+<li><img height="32px" width="32px" alt="ACC logo" src="https://static.doomworld.com/monthly_2017_03/avatar.png.109e43f9d1305aaec7a54e741526b9e1.png"> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b>
 </ul>
 
 ### • Redes •
