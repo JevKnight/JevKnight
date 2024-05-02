@@ -7,7 +7,7 @@
 <li>🗜️ | Estudando Zscript, linguagem de programação para mods e forks para a engine GZDoom. (irrelevante...) </li>
 <li>😴 | Preguiçoso...</li>
 <li>☕ | Apesar de ser antigo na plataforma (4/5 anos), não tenho muita atividade. </li>
-<li>☣️ | Fã de<a href="https://www.moddb.com/mods/brutal-doom">Brutal Doom</a> e <a href="https://www.moddb.com/mods/project-brutality">Project Brutality</></li>
+<li>☣️ | Fã de <a href="https://www.moddb.com/mods/brutal-doom">Brutal Doom</a> e <a href="https://www.moddb.com/mods/project-brutality">Project Brutality</></li>
 </ul>
 
 ###  • Github Stats •
