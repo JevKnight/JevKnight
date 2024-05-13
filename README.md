@@ -10,6 +10,10 @@
 <li>☣️ | Fã de <a href="https://www.moddb.com/mods/brutal-doom">Brutal Doom</a> e <a href="https://www.moddb.com/mods/project-brutality">Project Brutality</></li>
 </ul>
 
+### • Discord •
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/340608909230211074)](https://discord.com/users/340608909230211074)
+
 ###  • Github Stats •
 ![JevLsk's Stats](https://github-readme-stats.vercel.app/api?username=JevLsk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 ![JevLsk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JevLsk&theme=onedark&hide_border=true)
