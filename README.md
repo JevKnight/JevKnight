@@ -50,6 +50,11 @@
 <li><img height="32px" width="32px" alt="ACC logo" src="https://static.doomworld.com/monthly_2017_03/avatar.png.109e43f9d1305aaec7a54e741526b9e1.png"> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b></li>
 </ul>
 
-
 ### • Redes Sociais •
+
+<p>
+  <a href="https://steamcommunity.com/id/Jev_L_sk/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a>
+</p>
+
+### • Outras Redes •
 * <img height="32px" alt="moddb logo" src="https://media.moddb.com/images/members/4/3399/3398047/1.png"> [Moddb](https://www.moddb.com/members/jevlsk)
