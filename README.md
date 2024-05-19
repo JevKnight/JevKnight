@@ -24,7 +24,7 @@
  
 | Nome do Projeto        | Descrição                        | Iniciado? | Concluído? |
 | ------------ | -------------------------------- | ------------ | ------------ |
-| [Brutal Doom: Edition BloodLust](https://github.com/JevLsk/BD-fork-edition-bloodlust)   | Fork para Brutal Doom | sim         | não          |
+| [Brutal Doom: Edition BloodLust](https://github.com/JevKnight/BD-fork-edition-bloodlust)   | Fork para Brutal Doom | sim         | não          |
 
 ## • Linguagens que Trabalho •
 
