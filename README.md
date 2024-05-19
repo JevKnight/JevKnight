@@ -15,9 +15,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/340608909230211074)](https://discord.com/users/340608909230211074)
 
 ###  • Github Stats •
-![JevLsk's Stats](https://github-readme-stats.vercel.app/api?username=JevLsk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![JevLsk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JevLsk&theme=onedark&hide_border=true)
-![JevLsk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JevLsk&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![JevKnight's Stats](https://github-readme-stats.vercel.app/api?username=JevKnight&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![JevKnight's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JevKnight&theme=onedark&hide_border=true)
+![JevKnight's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JevKnight&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 ## • Últimos Projetos •
 
