@@ -53,8 +53,8 @@
 ### • Redes Sociais •
 
 <p>
-  <a href="https://steamcommunity.com/id/Jev_L_sk/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/_Jevkkkkkk/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
 ### • Outras Redes •
-* <img height="32px" alt="moddb logo" src="https://media.moddb.com/images/members/4/3399/3398047/1.png"> [Moddb](https://www.moddb.com/members/jevlsk)
+* <img height="32px" alt="moddb logo" src="https://media.moddb.com/images/members/4/3399/3398047/1.png"> [Moddb](https://www.moddb.com/members/jeweljev)
